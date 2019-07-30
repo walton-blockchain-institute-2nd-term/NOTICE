@@ -5,11 +5,9 @@
 ## 이유 : 네트워크의 구성 파악 이후, 좀 더 깊은 코드의 이해를 위해
 
 ## 방법 : 아래 이미지 파일에서 보이는 데이터를 가지고 프론트엔드 구현, 방식 자유 (HTML+CSS, React.js, View.js 등등..)
-
-![실행](https://i.imgur.com/Qr2mX6z.png)
-![결과](https://i.imgur.com/a0cpocP.png)
-
-## 요약 : fabcar 실행 후 qurey.js를 통해 조회하게되면 나오는 결과를 웹상으로 프론트 연결하기 
+![실행](https://i.imgur.com/a0cpocP.png)
+![결과](https://i.imgur.com/Qr2mX6z.png)
+### 요약 : fabcar 실행 후 qurey.js를 통해 조회하게되면 나오는 결과를 웹상으로 프론트 연결하기 
 
 ## 상세내용
 아래와 같은 방법을 통해 스터디를 진행하려 합니다.
